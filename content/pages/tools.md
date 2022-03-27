@@ -12,46 +12,46 @@ MATLAB® Scripts: Simple Chaotic Systems
 
 _Flows_
 
-All flows require step\_it.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/tools/step_it.m))
+All flows require step\_it.m ([M]({{< baseurl >}}/resources/step_it))
 
 *   Lorenz 63
-    *   l63drive.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/tools/l63drive.m))
-    *   derivsl63.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/tools/derivsl63.m))
+    *   l63drive.m ([M]({{< baseurl >}}/resources/l63drive))
+    *   derivsl63.m ([M]({{< baseurl >}}/resources/derivsl63))
     *   Image ([JPG]({{< baseurl >}}/resources/l63))
 *   Moore-Spiegel
-    *   msdrive.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/tools/msdrive.m))
-    *   derivsms.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/tools/derivsms.m))
+    *   msdrive.m ([M]({{< baseurl >}}/resources/msdrive))
+    *   derivsms.m ([M]({{< baseurl >}}/resources/derivsms))
     *   Image ([JPG]({{< baseurl >}}/resources/ms))
 *   Rossler
-    *   rosdrive.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/tools/rosdrive.m))
-    *   derivsros.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/tools/derivsros.m))
+    *   rosdrive.m ([M]({{< baseurl >}}/resources/rosdrive))
+    *   derivsros.m ([M]({{< baseurl >}}/resources/derivsros))
     *   Image ([JPG]({{< baseurl >}}/resources/ros))
 *   Lorenz 95
-    *   l95drive.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/tools/l95drive.m))
-    *   derivsl95.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/tools/derivsl95.m))
+    *   l95drive.m ([M]({{< baseurl >}}/resources/l95drive))
+    *   derivsl95.m ([M]({{< baseurl >}}/resources/derivsl95))
     *   Image ([JPG]({{< baseurl >}}/resources/l95))  
         
 
 _Maps_
 
 *   Henon
-    *   henondrive.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/tools/henondrive.m))
-    *   henon.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/tools/henon.m))
+    *   henondrive.m ([M]({{< baseurl >}}/resources/henondrive))
+    *   henon.m ([M]({{< baseurl >}}/resources/henon-1))
     *   Image ([JPG]({{< baseurl >}}/resources/henon))
 *   Ikeda
-    *   ikedadrive.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/tools/ikedadrive.m))
-    *   ikeda.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/tools/ikeda.m))
-    *   Image ([JPG]({{< baseurl >}}/resources/ikeda))
+    *   ikedadrive.m ([M]({{< baseurl >}}/resources/ikedadrive))
+    *   ikeda.m ([M]({{< baseurl >}}/resources/ikeda))
+    *   Image ([JPG]({{< baseurl >}}/resources/ikeda-1))
 *   Stiletto
-    *   stildrive.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/tools/stildrive.m))
-    *   stil.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/tools/stil.m))
+    *   stildrive.m ([M]({{< baseurl >}}/resources/stildrive))
+    *   stil.m ([M]({{< baseurl >}}/resources/stil-1))
     *   Image ([JPG]({{< baseurl >}}/resources/stil))
 *   Tinkerbell
-    *   tinkdrive.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/tools/tinkdrive.m))
-    *   tink.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/tools/tink.m))
-    *   Image ([JPG]({{< baseurl >}}/resources/tink))  
+    *   tinkdrive.m ([M]({{< baseurl >}}/resources/tinkdrive))
+    *   tink.m ([M]({{< baseurl >}}/resources/tink))
+    *   Image ([JPG]({{< baseurl >}}/resources/tink-1))  
         
 
 _Miscellaneous_
 
-*   ellipsepdf.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/tools/ellipsepdf.m))
+*   ellipsepdf.m ([M]({{< baseurl >}}/resources/ellipsepdf))
