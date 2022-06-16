@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Graph illustrating Simple Chaotic Systems, Maps: Henon'
-file: /media/courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/e68321d2ca2eab4ed1c622e3bad08dfc_henon.jpg
+file: /courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/e68321d2ca2eab4ed1c622e3bad08dfc_henon.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -16,4 +16,10 @@ parent_uid: 89c78cb1-3a2f-a12b-482a-180118be59c7
 resourcetype: Image
 title: henon.jpg
 uid: e68321d2-ca2e-ab4e-d1c6-22e3bad08dfc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Graph illustrating Simple Chaotic Systems, Maps: Henon
+
