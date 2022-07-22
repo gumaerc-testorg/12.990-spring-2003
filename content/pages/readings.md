@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: a59f28f4-e83c-8c0d-e66e-73379e06c0ee
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Grassberger, P., and I. Procaccia. "Characterization of Strange Attractors." _Physical Review Letters_ 50, no. 5 (1983): 346-349.
