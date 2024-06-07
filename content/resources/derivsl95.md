@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Matlab code for Simple Chaotic Systems, Flows: Lorenz 95'
 file: /courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/d493663fce91ccbd8b0c493a81c87303_derivsl95.m
+file_size: 469
 file_type: text/plain
 learning_resource_types:
 - Tools
