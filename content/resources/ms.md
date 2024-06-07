@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Graph illustrating Simple Chaotic Systems, Flows: Moore-Spiegel'
 file: /courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/ea6daf7bdc7154ce81f3ce1e64a1f2dd_ms.jpg
+file_size: 82936
 file_type: image/jpeg
 image_metadata:
   caption: ''

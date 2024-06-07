@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Matlab code for Simple Chaotic Systems, Maps: Henon'
 file: /courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/db66e828f380477459e64f7b65ef0bf9_henon.m
+file_size: 293
 file_type: text/plain
 learning_resource_types:
 - Tools
