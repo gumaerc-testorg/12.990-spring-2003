@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Matlab code for Simple Chaotic Systems, Maps: Ikeda'
-file: /courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/e42407d09e80ba6b0ea030906f5cf1be_ikedadrive.m
+file: /ol-ocw-studio-app/courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/e42407d09e80ba6b0ea030906f5cf1be_ikedadrive.m
 file_size: 1000
 file_type: text/plain
 learning_resource_types:

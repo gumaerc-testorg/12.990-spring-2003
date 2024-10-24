@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Graph illustrating Simple Chaotic Systems, Flows: Rossler'
-file: /courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/cdb3b444ed14523a07649ff908e04e99_ros.jpg
+file: /ol-ocw-studio-app/courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/cdb3b444ed14523a07649ff908e04e99_ros.jpg
 file_size: 86379
 file_type: image/jpeg
 image_metadata:
