@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Matlab code for Simple Chaotic Systems, Flows: Lorenz 63'
-file: /courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/d3e85f401ddb80d91f745d5dde1b9c5d_derivsl63.m
+file: /ol-ocw-studio-app/courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/d3e85f401ddb80d91f745d5dde1b9c5d_derivsl63.m
 file_size: 437
 file_type: text/plain
 learning_resource_types:
