@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Graph illustrating Simple Chaotic Systems, Maps: Henon'
-file: /ol-ocw-studio-app/courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/e68321d2ca2eab4ed1c622e3bad08dfc_henon.jpg
+file: /courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/e68321d2ca2eab4ed1c622e3bad08dfc_henon.jpg
 file_size: 86628
 file_type: image/jpeg
 image_metadata:
