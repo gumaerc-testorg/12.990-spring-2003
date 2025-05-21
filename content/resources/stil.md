@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Graph illustrating Simple Chaotic Systems, Maps: Stiletto'
-file: /ol-ocw-studio-app/courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/12b3df6429c56f569c3bc9db3c509118_stil.jpg
+file: /courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/12b3df6429c56f569c3bc9db3c509118_stil.jpg
 file_size: 75613
 file_type: image/jpeg
 image_metadata:

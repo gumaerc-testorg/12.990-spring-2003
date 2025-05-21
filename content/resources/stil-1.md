@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Matlab code for Simple Chaotic Systems, Maps: Stiletto'
-file: /ol-ocw-studio-app/courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/90130e6cbae4cc928cc2ae00fb6675a0_stil.m
+file: /courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/90130e6cbae4cc928cc2ae00fb6675a0_stil.m
 file_size: 630
 file_type: text/plain
 learning_resource_types:

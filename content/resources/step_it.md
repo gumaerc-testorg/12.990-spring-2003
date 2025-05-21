@@ -5,7 +5,7 @@ description: MATLAB script to support Simple Chaotic Systems, Flows.  The functi
   a numerical integration over a time 'stepsize' of a specified function, 'func',
   using a 4th order Runge-Kutta scheme (see, for example, Press et al, 1986. Numerical
   Recipes in FORTRAN, Cambridge University Press).
-file: /ol-ocw-studio-app/courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/4f3eb81fd11f9c6b298e43fec0392a91_step_it.m
+file: /courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/4f3eb81fd11f9c6b298e43fec0392a91_step_it.m
 file_size: 1093
 file_type: text/plain
 learning_resource_types:

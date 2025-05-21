@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Matlab code for Simple Chaotic Systems, Maps: Tinkerbell'
-file: /ol-ocw-studio-app/courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/94ced546086cbb867cb778493e807439_tinkdrive.m
+file: /courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/94ced546086cbb867cb778493e807439_tinkdrive.m
 file_size: 942
 file_type: text/plain
 learning_resource_types:

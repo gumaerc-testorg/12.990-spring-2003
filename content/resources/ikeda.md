@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Graph illustrating Simple Chaotic Systems, Maps: Ikeda'
-file: /ol-ocw-studio-app/courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/a4c58f0cc2359e76233002b62a429a63_ikeda.jpg
+file: /courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/a4c58f0cc2359e76233002b62a429a63_ikeda.jpg
 file_size: 217168
 file_type: image/jpeg
 image_metadata:

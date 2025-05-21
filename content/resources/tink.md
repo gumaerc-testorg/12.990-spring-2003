@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Graph illustrating Simple Chaotic Systems, Maps: Tinkerbell'
-file: /ol-ocw-studio-app/courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/0e3aac2cb61948652561c300147b8846_tink.jpg
+file: /courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/0e3aac2cb61948652561c300147b8846_tink.jpg
 file_size: 104358
 file_type: image/jpeg
 image_metadata:
