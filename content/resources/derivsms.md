@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Matlab code for Simple Chaotic Systems, Flows: Moore-Spiegel'
-file: /courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/69714e587da9b6612e5ec6e8a32cfc50_derivsms.m
+file: /ol-ocw-studio-app/courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/69714e587da9b6612e5ec6e8a32cfc50_derivsms.m
 file_size: 421
 file_type: text/plain
 learning_resource_types:
