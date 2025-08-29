@@ -4,7 +4,7 @@ description: 'This function plots a set of ellipses defined by the covariance ma
   P centered at [xo,yo] in the current figure.  Three ellipses are produced: one at
   0.5std, one at 1std, and one at 2std.  The ellipses are plotted in the color listed
   in the string COLOR.'
-file: /courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/1dc3fdf5acea0395b3614f65363d6f1d_ellipsepdf.m
+file: /ol-ocw-studio-app/courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/1dc3fdf5acea0395b3614f65363d6f1d_ellipsepdf.m
 file_size: 760
 file_type: text/plain
 learning_resource_types:

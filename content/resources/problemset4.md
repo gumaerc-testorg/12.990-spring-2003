@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/31fe4642a49144dd1f5999023a534539_problemset4.pdf
+file: /ol-ocw-studio-app/courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/31fe4642a49144dd1f5999023a534539_problemset4.pdf
 file_size: 228631
 file_type: application/pdf
 learning_resource_types:
