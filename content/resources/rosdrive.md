@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Matlab code for Simple Chaotic Systems, Flows: Rossler'
-file: /courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/9c8756e45c45df5d81bea7494712eafe_rosdrive.m
+file: /ol-ocw-studio-app/courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003/9c8756e45c45df5d81bea7494712eafe_rosdrive.m
 file_size: 1074
 file_type: text/plain
 learning_resource_types:
